@@ -1,0 +1,33 @@
+{
+  "name": "Noto Sans Armenian",
+  "designer": "Monotype Design team",
+  "license": "",
+  "visibility": "Sandbox",
+  "category": "monospace",
+  "size": 11050,
+  "fonts": [
+    {
+      "name": "Noto Sans Armenian",
+      "style": "normal",
+      "weight": 400,
+      "filename": "NotoSansArmenian-Regular.ttf",
+      "postScriptName": "NotoSansArmenian",
+      "fullName": "Noto Sans Armenian",
+      "copyright": "Copyright 2012 Google Inc. All Rights Reserved."
+    },
+    {
+      "name": "Noto Sans Armenian",
+      "style": "normal",
+      "weight": 700,
+      "filename": "NotoSansArmenian-Bold.ttf",
+      "postScriptName": "NotoSansArmenian-Bold",
+      "fullName": "Noto Sans Armenian Bold",
+      "copyright": "Copyright 2012 Google Inc. All Rights Reserved."
+    }
+  ],
+  "subsets": [
+    "latin",
+    "menu"
+  ],
+  "dateAdded": "2014-10-06"
+}
